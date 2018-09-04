@@ -1,0 +1,607 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RAYZAOCCELLI.COM" resolutions="1x" timestamp="1536071566912">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4049446525" ref="index:contact:about:portfolio-2:portfolio-3:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:about:portfolio-2:portfolio-3:portfolio"/>
+    <file name="index.css" crc="4127627491" ref="index"/>
+    <file name="nomq_index.css" crc="4166440325" ref="index"/>
+    <file name="contact.css" crc="3914804562" ref="contact"/>
+    <file name="nomq_contact.css" crc="389745493" ref="contact"/>
+    <file name="about.css" crc="3944329202" ref="about"/>
+    <file name="nomq_about.css" crc="389167194" ref="about"/>
+    <file name="portfolio-2.css" crc="3794522231" ref="portfolio-2"/>
+    <file name="nomq_portfolio-2.css" crc="321695803" ref="portfolio-2"/>
+    <file name="portfolio-3.css" crc="3875758574" ref="portfolio-3"/>
+    <file name="nomq_portfolio-3.css" crc="262829816" ref="portfolio-3"/>
+    <file name="portfolio.css" crc="340225052" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4187962472" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="require.js" crc="7928878" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:portfolio-2:portfolio-3"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u956.php" crc="3927807526" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio-2:portfolio-3"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio-2:portfolio-3"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio-2:portfolio-3"/>
+  </folder>
+  <folder name="images">
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr.png" crc="530081327" ref="index"/>
+    <file name="pasted image 940x524.jpg" crc="4086721794" seo="true" ref="index:contact:about:portfolio:portfolio-2:portfolio-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8619.png" crc="4241340618" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8619-a.png" crc="24543687" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8624.png" crc="89721536" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8624-a.png" crc="4020667379" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8691.png" crc="4113411896" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8691-a.png" crc="144191101" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u8793-4.png" crc="3759610615" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8826-4.png" crc="3885506985" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8740.png" crc="46595935" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u8740-a.png" crc="4177733685" ref="index:contact:about:portfolio:portfolio-2:portfolio-3"/>
+    <file name="u2375-6.png" crc="3771630433" ref="index"/>
+    <file name="openpage.jpg" crc="172093017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-128.png" crc="373679361" seo="true" ref="index:contact:about:portfolio:portfolio-2:portfolio-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="social_media-09-128.png" crc="3961144636" seo="true" ref="index:contact:about:portfolio:portfolio-2:portfolio-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="social_media-18-128.png" crc="299618442" seo="true" ref="index:contact:about:portfolio:portfolio-2:portfolio-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr2.png" crc="235066222" ref="index"/>
+    <file name="pasted image 940x524206x115.jpg" crc="86494693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2375-62.png" crc="300770825" ref="index"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr3.png" crc="3943269139" ref="index"/>
+    <file name="pasted image 940x524-crop-u3932.jpg" crc="3951240159" seo="true" ref="index:contact:about:portfolio:portfolio-2:portfolio-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="openpage395x514.jpg" crc="3967667171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2375-63.png" crc="478968284" ref="index"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr4.png" crc="156162333" ref="index"/>
+    <file name="openpage169x220.jpg" crc="414594499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2375-64.png" crc="3988646300" ref="index"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr5.png" crc="207629231" ref="contact"/>
+    <file name="u1007-4.png" crc="4057198391" ref="contact"/>
+    <file name="u1007-42.png" crc="462921325" ref="contact"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr6.png" crc="530081327" ref="contact"/>
+    <file name="u1007-43.png" crc="4122056790" ref="contact"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr7.png" crc="124844418" ref="about:portfolio-2"/>
+    <file name="u541-4.png" crc="7640483" ref="about"/>
+    <file name="pasted image 256x256.jpg" crc="3794619704" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u409-19.png" crc="4699736" ref="about"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr8.png" crc="3985784748" ref="about"/>
+    <file name="u541-42.png" crc="147836544" ref="about"/>
+    <file name="u409-192.png" crc="505021307" ref="about"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr9.png" crc="184673850" ref="about"/>
+    <file name="u541-43.png" crc="83277659" ref="about"/>
+    <file name="u409-193.png" crc="3819212442" ref="about"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr10.png" crc="288399337" ref="portfolio"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-u583-fr.png" crc="3770341512" ref="portfolio"/>
+    <file name="textilesopenpage.jpg" crc="3859847077" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="allover2.jpg" crc="351941214" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="argyle.jpg" crc="4190829912" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tonetone.jpg" crc="4085004870" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stripes2.jpg" crc="56671886" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mini.jpg" crc="130638533" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-u583-fr2.png" crc="164187564" ref="portfolio"/>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-u583-fr3.png" crc="458410516" ref="portfolio"/>
+    <file name="textilesopenpage183x233.jpg" crc="3938704705" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="argyle203x314.jpg" crc="33430988" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="allover2204x314.jpg" crc="3884524367" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stripes2206x318.jpg" crc="277040403" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tonetone206x318.jpg" crc="430133134" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mini204x314.jpg" crc="148913241" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kisspng-cities-skylines-drawing-colorful-city-skyline-5a6ed05d2f76782232858515172117411944-page-fr11.png" crc="288399337" ref="portfolio-2:portfolio-3"/>
+    <file name="accessoriesopenpaage-crop-u1919.jpg" crc="440179877" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u2070.jpg" crc="113503354" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u2110.jpg" crc="4199852917" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u2050.jpg" crc="3842840610" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u2130.jpg" crc="3954329177" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="fixpagesize_bags-crop-u2090.jpg" crc="86549857" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="accessoriesopenpaage-crop-u1937.jpg" crc="3775140638" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u2044.jpg" crc="232632224" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u2064.jpg" crc="4093426612" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u2124.jpg" crc="271684571" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u2104.jpg" crc="4031681989" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="fixpagesize_bags.gif" crc="170458737" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio-2:portfolio-3"/>
+    <file name="accessoriesopenpaage-crop-u19192.jpg" crc="20910315" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u20702.jpg" crc="3786986296" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u21102.jpg" crc="522584373" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u20502.jpg" crc="406120268" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u21302.jpg" crc="4098623071" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="fixpagesize_bags-crop-u20902.jpg" crc="445123173" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="accessoriesopenpaage-crop-u19372.jpg" crc="3855809381" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u20442.jpg" crc="321958447" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u20642.jpg" crc="67480368" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u21242.jpg" crc="4146038219" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u21042.jpg" crc="4068632790" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="accessoriesopenpaage-crop-u19193.jpg" crc="4183031020" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u20503.jpg" crc="2008549" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u20703.jpg" crc="3853870432" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u21303.jpg" crc="44937875" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u21103.jpg" crc="3938528784" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="fixpagesize_bags-crop-u20903.jpg" crc="4001846845" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="accessoriesopenpaage-crop-u19373.jpg" crc="514506637" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="bags_pr5ing-crop-u20443.jpg" crc="51079794" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="birds-crop-u20643.jpg" crc="4008509222" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="lining-crop-u21243.jpg" crc="530220236" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="inspiration-crop-u21043.jpg" crc="4224680906" seo="true" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="moodboard-crop-u2643.jpg" crc="3899129084" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u2683.jpg" crc="4054791362" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u2723.jpg" crc="79571541" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u2763.jpg" crc="530613456" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u2803.jpg" crc="65173284" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u2843.jpg" crc="530613456" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u2883.jpg" crc="4050911417" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u2923.jpg" crc="65173284" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u2663.jpg" crc="101465945" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u2703.jpg" crc="419547719" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u2743.jpg" crc="4050911417" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u2783.jpg" crc="3987580105" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u2823.jpg" crc="79571541" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u2863.jpg" crc="209915595" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u2903.jpg" crc="3987580105" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="moodboard-crop-u2637.jpg" crc="130380980" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u2657.jpg" crc="261557543" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u2677.jpg" crc="70474083" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u2697.jpg" crc="4126636540" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u2717.jpg" crc="3914310002" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u2737.jpg" crc="288791080" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u2757.jpg" crc="16515010" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u2777.jpg" crc="3838712866" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u2797.jpg" crc="200093004" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u2817.jpg" crc="3914310002" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u2837.jpg" crc="16515010" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u2857.jpg" crc="4079802049" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u2877.jpg" crc="288791080" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u2897.jpg" crc="3838712866" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u2917.jpg" crc="200093004" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="moodboard-crop-u26432.jpg" crc="3960967354" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26832.jpg" crc="4098307579" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u27232.jpg" crc="15757732" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u27632.jpg" crc="531050227" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u28032.jpg" crc="4020417200" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u28432.jpg" crc="531050227" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u28832.jpg" crc="4154048949" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u29232.jpg" crc="4020417200" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26632.jpg" crc="127852378" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u27032.jpg" crc="3768126933" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u27432.jpg" crc="4154048949" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u27832.jpg" crc="147422994" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u28232.jpg" crc="15757732" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u28632.jpg" crc="4234501737" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u29032.jpg" crc="147422994" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="moodboard-crop-u26372.jpg" crc="3864796827" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26572.jpg" crc="4067634861" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26772.jpg" crc="118182524" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u26972.jpg" crc="11349034" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u27172.jpg" crc="3888775079" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u27372.jpg" crc="4250418539" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u27572.jpg" crc="4126531101" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u27772.jpg" crc="3780588267" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u27972.jpg" crc="237726327" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u28172.jpg" crc="3888775079" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u28372.jpg" crc="4126531101" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u28572.jpg" crc="211586111" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u28772.jpg" crc="4250418539" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u28972.jpg" crc="3780588267" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u29172.jpg" crc="237726327" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="moodboard-crop-u26433.jpg" crc="3903875504" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26633.jpg" crc="334867500" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26833.jpg" crc="3805002610" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u27033.jpg" crc="3776479268" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u27233.jpg" crc="3848933499" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u27433.jpg" crc="3914080675" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u27633.jpg" crc="520848542" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u27833.jpg" crc="3797865105" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u28033.jpg" crc="4224775041" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u28233.jpg" crc="3848933499" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u28433.jpg" crc="520848542" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u28633.jpg" crc="439374518" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u28833.jpg" crc="3914080675" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u29033.jpg" crc="3797865105" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u29233.jpg" crc="4224775041" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="moodboard-crop-u26373.jpg" crc="4088759141" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26573.jpg" crc="87863527" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquisfinal-crop-u26773.jpg" crc="451385830" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceancroquispage_1-crop-u26973.jpg" crc="5461448" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_2-crop-u27173.jpg" crc="215467219" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_3-crop-u27373.jpg" crc="3939407878" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_4-crop-u27573.jpg" crc="326652204" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_5-crop-u27773.jpg" crc="1360962" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_6-crop-u27973.jpg" crc="134573979" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_26-crop-u28173.jpg" crc="215467219" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_46-crop-u28373.jpg" crc="326652204" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="ocean-flat_51-crop-u28573.jpg" crc="47340216" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_53-crop-u28773.jpg" crc="3939407878" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_56-crop-u28973.jpg" crc="1360962" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="oceanflat_76-crop-u29173.jpg" crc="134573979" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="106719620" seo="true" mt="1536071401220" redirect="true"/>
+  <file name="contact.html" crc="143840823" seo="true" mt="1536071401220" redirect="true"/>
+  <file name="about.html" crc="3998688122" seo="true" mt="1536071401220" redirect="true"/>
+  <file name="portfolio.html" crc="4252651221" seo="true" mt="1536071401220" redirect="true"/>
+  <file name="portfolio-2.html" crc="296353046" seo="true" mt="1536071401220" redirect="true"/>
+  <file name="portfolio-3.html" crc="4108896994" seo="true" mt="1536071401220" redirect="true"/>
+</manifest>
